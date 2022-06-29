@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "northeurope"
+            "value": "eastus2"
         },
         "environment": {
             "value": "dev"
@@ -15,7 +15,7 @@
             "value": {}
         },
         "purviewRootCollectionAdminObjectIds": {
-            "value": []
+            "value": ["aa389cba-1254-4b9d-9ff1-2a535e294537"]
         },
         "vnetAddressPrefix": {
             "value": "10.0.0.0/16"
